@@ -448,10 +448,3 @@ textarea {
 }
 
  
-@media (max-width: 800px){
-	.footer {
-		padding-top: 100px;
-		padding-bottom: 450px;
-	}
-}
- 
